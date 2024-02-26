@@ -1,0 +1,53 @@
+{
+  "modal_trigger_title": "Cookie settings",
+
+  "consent_modal_title": "Utilizziamo i cookies!",
+  "consent_modal_description": "Questo sito utilizza cookie essenziali per garantirne il corretto funzionamento e cookie di tracciamento per capirne l'interazione. Quest'ultimo verrà impostato solo previo consenso.",
+  "consent_modal_primary_btn": "Accetto",
+  "consent_modal_secondary_btn_settings": "Personalizza",
+  "consent_modal_secondary_btn_accept_necessary": "Accetta i necessari",
+
+  "settings_modal_title": "Cookie settings",
+  "settings_modal_save_settings_btn": "Salva la configurazione",
+  "settings_modal_accept_all_btn": "Accetta tutto",
+  "settings_modal_reject_all_btn": "Accetta i necessari",
+  "settings_modal_close_btn_label": "Chiudi",
+
+  "settings_modal_before_consent_title": "Utilizzo dei cookie",
+  "settings_modal_before_consent_description": "Utilizziamo i cookie per garantire le funzionalità di base del sito Web e per migliorare la tua esperienza online. Puoi scegliere di attivare/disattivare ogni categoria quando vuoi.",
+
+  "settings_modal_after_consent_title": "Piu' Informazioni",
+  "settings_modal_after_consent_description": "For any queries in relation to policy on cookies and choices, please contact us.",
+
+  "functionality_storage_title": "Cookie Funzionali",
+  "functionality_storage_description": "Questi cookie sono necessari per il corretto funzionamento del nostro sito web. Senza questi cookie, il sito web potrebbe non funzionare correttamente.",
+
+  "personalization_storage_title": "Cookie di Personalizzazione",
+  "personalization_storage_description": "I cookie di personalizzazione possono utilizzare cookie di terze parti per aiutarli a personalizzare i contenuti e tracciare gli utenti su diversi siti Web e dispositivi.",
+
+  "security_storage_title": "Cookie di Sicurezza",
+  "security_storage_description": "I cookie di sicurezza consentono l'archiviazione di informazioni relative alla sicurezza, come l'autenticazione, la protezione dalle frodi e altri mezzi per proteggere l'utente.",
+
+  "ad_storage_title": "Cookie Pubblicitari",
+  "ad_storage_description": "I cookie pubblicitari vengono utilizzati da noi o dai nostri partner per mostrarti contenuti o pubblicità pertinenti sia sul nostro sito che su siti di terze parti. Ciò ci consente di creare profili basati sui vostri interessi, i cosiddetti profili pseudonimizzati. Sulla base di queste informazioni non è generalmente possibile identificarvi direttamente come persona, poiché vengono utilizzati solo dati pseudonimizzati. A meno che tu non esprima il tuo consenso, non riceverai contenuti e pubblicità personalizzati in base ai tuoi interessi.",
+
+  "analytics_storage_title": "Cookie Analitici",
+  "analytics_storage_description": "I cookie analitici ci consentono di misurare le prestazioni del nostro sito Web e delle nostre campagne pubblicitarie. Li utilizziamo per determinare il numero di visite e le fonti di visita al nostro sito web. Elaboriamo i dati ottenuti attraverso questi cookie in forma aggregata, senza utilizzare identificatori che puntano a utenti specifici del nostro sito web. Se disabiliti l'uso dei cookie analitici in relazione alla tua visita, perdiamo la capacità di analizzare le prestazioni e ottimizzare le nostre misure.",
+
+  "cookie_table_col_name": "Nome",
+  "cookie_table_col_purpose": "Descrizione",
+  "cookie_table_col_processing_time": "Scadenza",
+  "cookie_table_col_provider": "Provider",
+  "cookie_table_col_type": "Tipo",
+  "cookie_table_col_link": "Link",
+  "cookie_table_col_link_find_out_more": "Link",
+  "cookie_table_col_category": "Categoria",
+
+  "processing_time_session": "Sessione",
+  "processing_time_persistent": "Persistente",
+
+  "cookie_type_1st_party": "1st party",
+  "cookie_type_3rd_party": "3rd party",
+
+  "find_out_more": "scopri di piu'"
+}
